@@ -32,7 +32,10 @@
         <h1 class="title">Võ Văn Dương xin chào!</h1>
         <div class="instructions">
           <h2>
+<<<<<<< HEAD
             Võ Văn Dương
+=======
+>>>>>>> 0395ddbd5388b2e8297f23abe7fd856053dee1a5
             Dương Văn Võ
           </h2>
         </div>
