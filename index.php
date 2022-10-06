@@ -32,7 +32,7 @@
         <h1 class="title">Võ Văn Dương xin chào!</h1>
         <div class="instructions">
           <h2>
-            Võ Văn Dương
+            Dương Văn Võ
           </h2>
         </div>
       </div>
